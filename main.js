@@ -10,7 +10,9 @@ gameStart.addEventListener('click', onGameStart);
 document.addEventListener('keydown', onKeyDown);
 document.addEventListener('keyup', onKeyUp);
 
+
 let keys = {};
+
 
 let player = {
     x: 150,
